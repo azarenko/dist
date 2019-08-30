@@ -1,0 +1,6 @@
+D:\projects\dist\dist\bin\Debug\dist.exe
+D:\projects\dist\dist\bin\Debug\dist.pdb
+D:\projects\dist\dist\obj\Debug\dist.csprojAssemblyReference.cache
+D:\projects\dist\dist\obj\Debug\dist.csproj.CoreCompileInputs.cache
+D:\projects\dist\dist\obj\Debug\dist.exe
+D:\projects\dist\dist\obj\Debug\dist.pdb
